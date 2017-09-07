@@ -61,3 +61,57 @@ Frames：用于向面向目标的对话系统加入记忆的语料库，Maluuba�
 DSTC 2 & 3：对话状态跟踪挑战（Dialog State Tracking Challenge）2 和 3，2013。
 论文：http://suo.im/2PzSZc
 数据：http://camdial.org/~mh521/dstc/
+
+
+tensorflow  rnn代码结构
+
+https://github.com/tensorflow/tensorflow/blob/r1.2/tensorflow/python/ops/rnn_cell_impl.py
+
+tf.nn.dynamic_rnn
+https://www.tensorflow.org/api_docs/python/tf/nn/dynamic_rnn
+
+
+https://github.com/hzy46/char-RNN-TensorFlow 有趣
+
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+
+http://cs.stanford.edu/people/karpathy/deepimagesent/
+
+https://github.com/karpathy/char-rnn
+
+https://github.com/NELSONZHAO/zhihu/tree/master/anna_lstm
+
+
+视频每一贞的分类标签
+
+N v 1
+
+应用 文字判断类别
+
+句子判断情感倾向
+输入视频判断类别
+
+1 V n
+
+从图片生成文字
+
+x 输入特性
+
+类别生成语音和音乐
+
+seq2seq
+
+机器翻译
+
+文本摘要
+
+阅读理解，将输入的文章和问题分别编码，再进行解码得到问题的答案
+
+语音识别，输入语音信号序列，输出文字序列
+
+understanding LSTM networks
+
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+语音文字合成心语音
+github.com/facebookresearch/loop
