@@ -115,3 +115,10 @@ http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 
 语音文字合成心语音
 github.com/facebookresearch/loop
+
+github.com/facebookresearch/fairseq-py cnn 翻译
+Convolutional seuence to sequence learning
+
+https://arxiv.org/abs/1705.03122
+
+github.com/facebookresearch/fairseq torch 版本
